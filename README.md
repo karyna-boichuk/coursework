@@ -20,7 +20,7 @@
 course_work/
 │
 ├── full coursework.py        # містить логіку роботи REST API
-├── online_cinema.sql              #база даних
+├── online_cinema.sql         #база даних
 ├── README.md                 # опис курсового проєкту
 
 ```
@@ -115,4 +115,5 @@ http://127.0.0.1:8002/docs
 ## Науковий керівник
 
 Доцент – **Мисюк Р. В.**
+
 
